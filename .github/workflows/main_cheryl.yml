@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Cheryl'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2CCD15451C34BD9BD47A5F33CB46541 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A2C411E2C6F64067AD8FAF3041CAAFE0 }}
